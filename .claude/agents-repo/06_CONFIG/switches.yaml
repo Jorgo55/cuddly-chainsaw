@@ -1,0 +1,7 @@
+# Mode Switches
+# Toggle features on/off
+
+mode: audit              # audit | offer-build | full-pipeline
+verbose_output: false    # Show detailed reasoning
+strict_scoring: true     # Enforce pass thresholds
+include_rewrites: false  # Include rewritten versions in output

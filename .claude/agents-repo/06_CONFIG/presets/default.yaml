@@ -1,0 +1,6 @@
+# Default Preset
+
+mode: audit
+verbose_output: false
+strict_scoring: true
+include_rewrites: false

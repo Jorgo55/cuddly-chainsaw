@@ -3,7 +3,7 @@
 **Build the machine that runs without you.**
 
 **Depends on**: Step 6 (Funnel Build) complete → funnel live + CRM connected
-**Produces**: `RESULTS/07_automations/`
+**Produces**: `RESULTS/thegenius.club/07_automations/`
 **Agent**: `email-sequence`
 
 ---
@@ -16,13 +16,13 @@ Build all automated email/SMS sequences that trigger from funnel actions. Uses t
 
 ## Input
 
-From `RESULTS/03_offer/`:
+From `RESULTS/thegenius.club/03_offer/`:
 - Offer package (for value props, bonuses, guarantee language)
 
-From `RESULTS/02_avatars/`:
+From `RESULTS/thegenius.club/02_avatars/`:
 - Avatar voice lines and pain points (for personalization)
 
-From `RESULTS/04_copy/`:
+From `RESULTS/thegenius.club/04_copy/`:
 - Tone and messaging (for consistency)
 
 Templates in `templates/`:
@@ -107,7 +107,7 @@ Template: `templates/broadcast-email-strategy.md`
 
 ## Output
 
-Save to `RESULTS/07_automations/`:
+Save to `RESULTS/thegenius.club/07_automations/`:
 - `post-booking-reminders.md` — full sequence with exact copy
 - `lead-nurture.md` — full 6-email sequence
 - `no-show-followup.md` — full sequence
@@ -124,6 +124,6 @@ Save to `RESULTS/07_automations/`:
 - [ ] All SMS messages written (under 160 chars each)
 - [ ] Automation logic documented (triggers, conditions, branches)
 - [ ] 4 weeks of broadcast templates ready
-- [ ] All outputs saved to `RESULTS/07_automations/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/07_automations/`
 
 → Proceed to Step 8 (Traffic)

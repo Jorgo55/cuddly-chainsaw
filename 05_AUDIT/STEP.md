@@ -2,8 +2,8 @@
 
 **Nothing goes live without passing. No exceptions.**
 
-**Depends on**: Step 4 (Copy) complete → `RESULTS/04_copy/` exists
-**Produces**: `RESULTS/05_audit/`
+**Depends on**: Step 4 (Copy) complete → `RESULTS/thegenius.club/04_copy/` exists
+**Produces**: `RESULTS/thegenius.club/05_audit/`
 **Agent**: `creative-auditor`
 
 ---
@@ -16,13 +16,13 @@ Run EVERY piece of copy from Step 4 through the 5-persona audit system. Score it
 
 ## Input
 
-From `RESULTS/04_copy/`:
+From `RESULTS/thegenius.club/04_copy/`:
 - All copy assets (landing page, booking, thank you, ads, outbound emails)
 
-From `RESULTS/03_offer/`:
+From `RESULTS/thegenius.club/03_offer/`:
 - Offer package (for proof/claim matching)
 
-From `RESULTS/02_avatars/`:
+From `RESULTS/thegenius.club/02_avatars/`:
 - Avatar profiles (for relevance checking)
 
 ---
@@ -84,14 +84,14 @@ From `RESULTS/02_avatars/`:
 
 | Creative | File | Verdict |
 |----------|------|---------|
-| Landing page headline + copy | `RESULTS/04_copy/landing-page-copy.md` | |
+| Landing page headline + copy | `RESULTS/thegenius.club/04_copy/landing-page-copy.md` | |
 | Landing page video script | (within landing page file) | |
-| Booking page copy | `RESULTS/04_copy/booking-page-copy.md` | |
-| Thank you page copy | `RESULTS/04_copy/thankyou-page-copy.md` | |
-| Ad copy: Red-Liner | `RESULTS/04_copy/ad-copy-red-liner.md` | |
-| Ad copy: Pitch-Deck Prisoner | `RESULTS/04_copy/ad-copy-pitch-deck-prisoner.md` | |
-| Ad copy: Expert Bottleneck | `RESULTS/04_copy/ad-copy-expert-bottleneck.md` | |
-| Outbound email | `RESULTS/04_copy/outbound-email-copy.md` | |
+| Booking page copy | `RESULTS/thegenius.club/04_copy/booking-page-copy.md` | |
+| Thank you page copy | `RESULTS/thegenius.club/04_copy/thankyou-page-copy.md` | |
+| Ad copy: Red-Liner | `RESULTS/thegenius.club/04_copy/ad-copy-red-liner.md` | |
+| Ad copy: Pitch-Deck Prisoner | `RESULTS/thegenius.club/04_copy/ad-copy-pitch-deck-prisoner.md` | |
+| Ad copy: Expert Bottleneck | `RESULTS/thegenius.club/04_copy/ad-copy-expert-bottleneck.md` | |
+| Outbound email | `RESULTS/thegenius.club/04_copy/outbound-email-copy.md` | |
 
 ---
 
@@ -107,7 +107,7 @@ Use `output-standards.md` for every audit:
 
 ## Output
 
-Save to `RESULTS/05_audit/`:
+Save to `RESULTS/thegenius.club/05_audit/`:
 - `audit-landing-page.md`
 - `audit-booking-page.md`
 - `audit-thankyou-page.md`
@@ -126,6 +126,6 @@ Save to `RESULTS/05_audit/`:
 - [ ] All REVISE items fixed and re-audited to PASS
 - [ ] All KILL items rewritten and re-audited to PASS
 - [ ] Master summary shows ALL PASS
-- [ ] All outputs saved to `RESULTS/05_audit/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/05_audit/`
 
 → Proceed to Step 6 (Funnel Build)

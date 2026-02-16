@@ -2,8 +2,8 @@
 
 **Build the customer before you build anything for them.**
 
-**Depends on**: Step 1 (Analysis) complete → `RESULTS/01_analysis/` exists
-**Produces**: `RESULTS/02_avatars/`
+**Depends on**: Step 1 (Analysis) complete → `RESULTS/thegenius.club/01_analysis/` exists
+**Produces**: `RESULTS/thegenius.club/02_avatars/`
 **Agent**: `icp-filter`
 **Template**: `templates/AVATAR_TEMPLATE.md`
 
@@ -17,7 +17,7 @@ Build full 14-section avatar profiles for each target customer. Uses analysis da
 
 ## Input
 
-From `RESULTS/01_analysis/`:
+From `RESULTS/thegenius.club/01_analysis/`:
 - Audience language (exact quotes from real communities)
 - Competitor messaging gaps (what's NOT being addressed)
 - Pain points ranked by frequency
@@ -64,7 +64,7 @@ For EACH avatar (Red-Liner, Pitch-Deck Prisoner, Expert Bottleneck):
 
 ## Output
 
-Save to `RESULTS/02_avatars/`:
+Save to `RESULTS/thegenius.club/02_avatars/`:
 - `red-liner.md` — full 14-section avatar
 - `pitch-deck-prisoner.md` — full 14-section avatar
 - `expert-bottleneck.md` — full 14-section avatar
@@ -79,6 +79,6 @@ Save to `RESULTS/02_avatars/`:
 - [ ] Pain points and objections cross-referenced with Step 1 data
 - [ ] 3 relatable stories per avatar written
 - [ ] 5 ad angles per avatar defined
-- [ ] All outputs saved to `RESULTS/02_avatars/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/02_avatars/`
 
 → Proceed to Step 3 (Offer)

@@ -2,8 +2,8 @@
 
 **Structure what you sell before you write a word of copy.**
 
-**Depends on**: Step 2 (Avatars) complete → `RESULTS/02_avatars/` exists
-**Produces**: `RESULTS/03_offer/`
+**Depends on**: Step 2 (Avatars) complete → `RESULTS/thegenius.club/02_avatars/` exists
+**Produces**: `RESULTS/thegenius.club/03_offer/`
 **Agent**: `offer-builder`
 
 ---
@@ -16,11 +16,11 @@ Build the complete offer package using the avatar data. Every component follows 
 
 ## Input
 
-From `RESULTS/02_avatars/`:
+From `RESULTS/thegenius.club/02_avatars/`:
 - All 3 completed avatar profiles
 - Pain points, objections, false solutions, goals per avatar
 
-From `RESULTS/01_analysis/`:
+From `RESULTS/thegenius.club/01_analysis/`:
 - Competitor pricing and offer structures
 - Positioning canvas (our unique angle)
 
@@ -81,7 +81,7 @@ Output: avatar fit matrix (score /10 per avatar + gaps + fixes)
 
 ## Output
 
-Save to `RESULTS/03_offer/`:
+Save to `RESULTS/thegenius.club/03_offer/`:
 - `offer-package.md` — all components filled
 - `offer-score.md` — rubric score + gap analysis
 - `avatar-fit-matrix.md` — fit score per avatar + fixes
@@ -96,6 +96,6 @@ Save to `RESULTS/03_offer/`:
 - [ ] Offer scored ≥35/54
 - [ ] Avatar fit audit done for all 3 avatars
 - [ ] Weak fits (<5) addressed with specific fixes
-- [ ] All outputs saved to `RESULTS/03_offer/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/03_offer/`
 
 → Proceed to Step 4 (Copy)

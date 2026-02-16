@@ -3,7 +3,7 @@
 **Everything is built. Now drive people to it.**
 
 **Depends on**: Steps 6 + 7 complete → funnel live + automations connected
-**Produces**: `RESULTS/08_traffic/`
+**Produces**: `RESULTS/thegenius.club/08_traffic/`
 **Agent**: `icp-filter`
 
 ---
@@ -16,11 +16,11 @@ Execute the traffic strategy in phases. List first, ads second, scale third.
 
 ## Input
 
-From `RESULTS/04_copy/`:
+From `RESULTS/thegenius.club/04_copy/`:
 - Ad copy per avatar (audited + passed)
 - Outbound email copy
 
-From `RESULTS/02_avatars/`:
+From `RESULTS/thegenius.club/02_avatars/`:
 - Avatar profiles (for targeting)
 
 From `00_CONTEXT/04_traffic_and_data.md`:
@@ -57,7 +57,7 @@ First data through the funnel. Test messaging. Validate conversion path.
 ## Phase 2: Paid Ads (After List Data)
 
 ### 8d. Meta Ads Setup
-- Use audited ad copy from `RESULTS/04_copy/`
+- Use audited ad copy from `RESULTS/thegenius.club/04_copy/`
 - Per-avatar ad sets (Red-Liner, Prisoner, Bottleneck)
 - Headline filtering ($250K+) protects algorithm
 - Lookalike audiences from Phase 1
@@ -90,7 +90,7 @@ Don't burn ad budget on an unproven funnel.
 
 ## Output
 
-Save to `RESULTS/08_traffic/`:
+Save to `RESULTS/thegenius.club/08_traffic/`:
 - `list-outreach-plan.md` — segmentation, send schedule, SMTP config
 - `meta-ads-plan.md` — audiences, ad sets, budgets, testing plan
 - `tracking-setup.md` — what to measure, KPIs, dashboards
@@ -106,4 +106,4 @@ Save to `RESULTS/08_traffic/`:
 - [ ] Ad sets configured per avatar
 - [ ] Tracking/KPIs defined
 - [ ] First outreach launched
-- [ ] All outputs saved to `RESULTS/08_traffic/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/08_traffic/`

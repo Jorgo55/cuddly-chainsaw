@@ -3,7 +3,7 @@
 **Before you build anything, understand the battlefield.**
 
 **Depends on**: `00_CONTEXT/` loaded
-**Produces**: `RESULTS/01_analysis/`
+**Produces**: `RESULTS/thegenius.club/01_analysis/`
 **Agent**: `icp-filter`
 
 ---
@@ -24,7 +24,7 @@ Answer these:
 - What's their pricing? What's their offer structure?
 - What are their weak points? Where are they vulnerable?
 
-**Output**: `RESULTS/01_analysis/competitor-landscape.md`
+**Output**: `RESULTS/thegenius.club/01_analysis/competitor-landscape.md`
 
 ---
 
@@ -37,7 +37,7 @@ Cross-reference ICP from `00_CONTEXT/01_icp.md` with reality:
 - What have they already tried? (failed solutions = false beliefs to address)
 - What do they complain about most? (real pain language, not our assumptions)
 
-**Output**: `RESULTS/01_analysis/audience-validation.md`
+**Output**: `RESULTS/thegenius.club/01_analysis/audience-validation.md`
 
 ---
 
@@ -49,7 +49,7 @@ Before writing anything, validate:
 - What hooks have the highest engagement in founder communities right now?
 - What's the current skepticism level toward funding consultants/programs?
 
-**Output**: `RESULTS/01_analysis/message-market-fit.md`
+**Output**: `RESULTS/thegenius.club/01_analysis/message-market-fit.md`
 
 ---
 
@@ -61,7 +61,7 @@ Where does our ICP actually live and engage?
 - Cold email: what response rates are realistic for founder outreach?
 - What's the 50K Slack list likely to convert at? (cold list benchmarks)
 
-**Output**: `RESULTS/01_analysis/channel-analysis.md`
+**Output**: `RESULTS/thegenius.club/01_analysis/channel-analysis.md`
 
 ---
 
@@ -74,7 +74,7 @@ Synthesize everything above into:
 - **Risk factors**: what could kill this before it starts
 - **Assumptions to test**: what we believe but haven't proven yet
 
-**Output**: `RESULTS/01_analysis/opportunity-map.md`
+**Output**: `RESULTS/thegenius.club/01_analysis/opportunity-map.md`
 
 ---
 
@@ -95,6 +95,6 @@ Synthesize everything above into:
 - [ ] Message-market fit hypothesis validated or adjusted
 - [ ] Channel priorities ranked with reasoning
 - [ ] Opportunity map complete with assumptions flagged
-- [ ] All outputs saved to `RESULTS/01_analysis/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/01_analysis/`
 
 → Proceed to Step 2 (Avatars)

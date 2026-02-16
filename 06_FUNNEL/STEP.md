@@ -2,8 +2,8 @@
 
 **Implement the pages. Copy is locked — just build.**
 
-**Depends on**: Step 5 (Audit) complete → ALL creatives PASS in `RESULTS/05_audit/`
-**Produces**: `RESULTS/06_funnel/`
+**Depends on**: Step 5 (Audit) complete → ALL creatives PASS in `RESULTS/thegenius.club/05_audit/`
+**Produces**: `RESULTS/thegenius.club/06_funnel/`
 **Agent**: `funnel-architect` (structure) + `page-builder` (implementation)
 
 ---
@@ -16,7 +16,7 @@ Build the actual funnel pages using the audited copy from Step 5. No copy change
 
 ## Input
 
-From `RESULTS/04_copy/` (audited + passed):
+From `RESULTS/thegenius.club/04_copy/` (audited + passed):
 - Landing page copy
 - Booking page copy
 - Thank you page copy
@@ -94,7 +94,7 @@ Landing Page → Gated Video → Lead Capture → Booking + Qual Qs → Thank Yo
 
 ## Output
 
-Save to `RESULTS/06_funnel/`:
+Save to `RESULTS/thegenius.club/06_funnel/`:
 - `landing-page/` — HTML, CSS, JS files
 - `booking-page/` — HTML, CSS, integration config
 - `thankyou-page/` — HTML, CSS, JS files
@@ -113,6 +113,6 @@ Save to `RESULTS/06_funnel/`:
 - [ ] Mobile responsive on all pages
 - [ ] Load time under 3 seconds
 - [ ] Screenshots captured
-- [ ] All outputs saved to `RESULTS/06_funnel/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/06_funnel/`
 
 → Proceed to Step 7 (Automations)

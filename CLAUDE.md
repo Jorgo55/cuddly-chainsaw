@@ -59,7 +59,7 @@ Each step:
 **Why first**: Don't build on assumptions. Understand the battlefield.
 **Agent**: `icp-filter`
 **Input**: `00_CONTEXT/`
-**Output**: `RESULTS/01_analysis/` — competitor landscape, audience validation, message-market fit, channel analysis, opportunity map
+**Output**: `RESULTS/thegenius.club/01_analysis/` — competitor landscape, audience validation, message-market fit, channel analysis, opportunity map
 **Gate**: 3+ competitors analyzed, audience language mined, positioning defined
 
 ---
@@ -69,8 +69,8 @@ Each step:
 **What**: Full 14-section avatar profiles for all 3 targets.
 **Why here**: Avatars need real data from Step 1, not guesses.
 **Agent**: `icp-filter`
-**Input**: `RESULTS/01_analysis/` + `00_CONTEXT/01_icp.md`
-**Output**: `RESULTS/02_avatars/` — 3 complete avatar files + summary matrix
+**Input**: `RESULTS/thegenius.club/01_analysis/` + `00_CONTEXT/01_icp.md`
+**Output**: `RESULTS/thegenius.club/02_avatars/` — 3 complete avatar files + summary matrix
 **Gate**: All 14 sections filled for all 3 avatars, zero blanks
 
 ---
@@ -80,8 +80,8 @@ Each step:
 **What**: Complete offer package — value equation, transformation statement, mechanism, naming, pricing, bonuses, guarantee, urgency, credibility, CTAs. Scored on 54-point rubric.
 **Why here**: Offer is built FROM avatar data, not before it.
 **Agent**: `offer-builder`
-**Input**: `RESULTS/02_avatars/` + `RESULTS/01_analysis/` + `00_CONTEXT/`
-**Output**: `RESULTS/03_offer/` — offer package, score, avatar fit matrix
+**Input**: `RESULTS/thegenius.club/02_avatars/` + `RESULTS/thegenius.club/01_analysis/` + `00_CONTEXT/`
+**Output**: `RESULTS/thegenius.club/03_offer/` — offer package, score, avatar fit matrix
 **Gate**: Offer score ≥ 35/54, all avatar fits addressed
 
 ---
@@ -91,8 +91,8 @@ Each step:
 **What**: All copy — landing page, booking page, thank you page, ads (per avatar), outbound emails. Through ben heath system + value equation.
 **Why here**: Copy is the offer expressed in words. Can't write without the offer.
 **Agent**: `copy-engine`
-**Input**: `RESULTS/03_offer/` + `RESULTS/02_avatars/` + `RESULTS/01_analysis/`
-**Output**: `RESULTS/04_copy/` — all copy assets per page + per avatar
+**Input**: `RESULTS/thegenius.club/03_offer/` + `RESULTS/thegenius.club/02_avatars/` + `RESULTS/thegenius.club/01_analysis/`
+**Output**: `RESULTS/thegenius.club/04_copy/` — all copy assets per page + per avatar
 **Gate**: All funnel copy + all ad variations + outbound email written
 
 ---
@@ -102,8 +102,8 @@ Each step:
 **What**: Run every creative through 5 audit personas (Ezra→Sophia→Paula→Devin→Avery). Score conversion radar. Trust score. Verdict: PASS / REVISE / KILL.
 **Why here**: Nothing goes live unaudited. This is quality control.
 **Agent**: `creative-auditor`
-**Input**: `RESULTS/04_copy/` + `RESULTS/03_offer/` + `RESULTS/02_avatars/`
-**Output**: `RESULTS/05_audit/` — audit per creative + master verdict table
+**Input**: `RESULTS/thegenius.club/04_copy/` + `RESULTS/thegenius.club/03_offer/` + `RESULTS/thegenius.club/02_avatars/`
+**Output**: `RESULTS/thegenius.club/05_audit/` — audit per creative + master verdict table
 **Gate**: ALL creatives must PASS. REVISE → back to Step 4 → re-audit. KILL → rewrite → re-audit.
 
 ---
@@ -113,8 +113,8 @@ Each step:
 **What**: Build the actual pages. Landing page, booking page, thank you page. CRM integration.
 **Why here**: Pages are built from audited copy. No copy changes at this stage.
 **Agent**: `funnel-architect` + `page-builder`
-**Input**: `RESULTS/04_copy/` (passed) + `00_CONTEXT/05_tech_and_automation.md`
-**Output**: `RESULTS/06_funnel/` — page files, specs, screenshots
+**Input**: `RESULTS/thegenius.club/04_copy/` (passed) + `00_CONTEXT/05_tech_and_automation.md`
+**Output**: `RESULTS/thegenius.club/06_funnel/` — page files, specs, screenshots
 **Gate**: All pages built, functional, mobile-responsive, CRM connected, <3s load
 
 ---
@@ -124,8 +124,8 @@ Each step:
 **What**: All email/SMS sequences — booking reminders, lead nurture, no-show follow-up, post-call nurture, 3-month boomerang, weekly broadcasts.
 **Why here**: Automations trigger from funnel actions. Funnel must exist first.
 **Agent**: `email-sequence`
-**Input**: `RESULTS/03_offer/` + `RESULTS/02_avatars/` + `RESULTS/04_copy/`
-**Output**: `RESULTS/07_automations/` — all sequences with exact copy + automation map
+**Input**: `RESULTS/thegenius.club/03_offer/` + `RESULTS/thegenius.club/02_avatars/` + `RESULTS/thegenius.club/04_copy/`
+**Output**: `RESULTS/thegenius.club/07_automations/` — all sequences with exact copy + automation map
 **Gate**: All 6 sequences written, SMS under 160 chars, automation logic documented
 
 ---
@@ -135,8 +135,8 @@ Each step:
 **What**: Execute traffic plan. Phase 1: 50K list outreach. Phase 2: Meta ads. Phase 3: Scale.
 **Why last**: Don't drive traffic to an unproven funnel.
 **Agent**: `icp-filter`
-**Input**: `RESULTS/04_copy/` (ads) + `RESULTS/02_avatars/` + `00_CONTEXT/04_traffic_and_data.md`
-**Output**: `RESULTS/08_traffic/` — outreach plan, ad plan, tracking setup, results log
+**Input**: `RESULTS/thegenius.club/04_copy/` (ads) + `RESULTS/thegenius.club/02_avatars/` + `00_CONTEXT/04_traffic_and_data.md`
+**Output**: `RESULTS/thegenius.club/08_traffic/` — outreach plan, ad plan, tracking setup, results log
 **Gate**: List segmented, SMTP ready, audiences built, first outreach launched
 
 ---
@@ -197,14 +197,15 @@ Each step:
 │   └── templates/       (reminders, nurture, broadcasts + additional flows)
 08_TRAFFIC/              ← Step 8: drive traffic
 │   └── STEP.md
-RESULTS/                 ← ALL OUTPUTS (one folder per step)
-│   ├── 01_analysis/
-│   ├── 02_avatars/
-│   ├── 03_offer/
-│   ├── 04_copy/
-│   ├── 05_audit/
-│   ├── 06_funnel/
-│   ├── 07_automations/
-│   └── 08_traffic/
+RESULTS/                 ← ALL OUTPUTS (one subfolder per project)
+│   └── thegenius.club/  ← The Genius Club project
+│       ├── 01_analysis/
+│       ├── 02_avatars/
+│       ├── 03_offer/
+│       ├── 04_copy/
+│       ├── 05_audit/
+│       ├── 06_funnel/
+│       ├── 07_automations/
+│       └── 08_traffic/
 .claude/agents/          ← 7 specialized agents
 ```

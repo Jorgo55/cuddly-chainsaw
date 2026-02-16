@@ -2,8 +2,8 @@
 
 **Write every word using the offer, avatars, and ben heath system.**
 
-**Depends on**: Step 3 (Offer) complete → `RESULTS/03_offer/` exists, score ≥35/54
-**Produces**: `RESULTS/04_copy/`
+**Depends on**: Step 3 (Offer) complete → `RESULTS/thegenius.club/03_offer/` exists, score ≥35/54
+**Produces**: `RESULTS/thegenius.club/04_copy/`
 **Agent**: `copy-engine`
 
 ---
@@ -16,14 +16,14 @@ Write all copy for the funnel: landing page, booking page, thank you page, ads, 
 
 ## Input
 
-From `RESULTS/03_offer/`:
+From `RESULTS/thegenius.club/03_offer/`:
 - Completed offer package (transformation statement, mechanism, bonuses, guarantee, CTAs)
 - Offer score + avatar fit matrix
 
-From `RESULTS/02_avatars/`:
+From `RESULTS/thegenius.club/02_avatars/`:
 - All 3 avatar profiles (pain points, voice lines, ad angles, objections)
 
-From `RESULTS/01_analysis/`:
+From `RESULTS/thegenius.club/01_analysis/`:
 - Real audience language (vocabulary bank)
 - Competitor messaging gaps
 
@@ -104,7 +104,7 @@ For EACH of the 3 avatars:
 
 ## Output
 
-Save to `RESULTS/04_copy/`:
+Save to `RESULTS/thegenius.club/04_copy/`:
 - `landing-page-copy.md` — headlines, sub-headlines, body, CTA, video script
 - `booking-page-copy.md` — questions, copy, CTA
 - `thankyou-page-copy.md` — confirmation, bonus video script, motivation
@@ -121,6 +121,6 @@ Save to `RESULTS/04_copy/`:
 - [ ] Ad copy written for all 3 avatars (3-5 hooks each)
 - [ ] Outbound email copy with subject line variations
 - [ ] Every piece uses avatar language + offer components
-- [ ] All outputs saved to `RESULTS/04_copy/`
+- [ ] All outputs saved to `RESULTS/thegenius.club/04_copy/`
 
 → Proceed to Step 5 (Audit)

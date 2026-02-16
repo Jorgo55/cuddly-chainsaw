@@ -29,7 +29,7 @@ Templates in `templates/`:
 - `appointment-reminder-templates.md`
 - `lead-magnet-delivery-nurture-flow.md`
 - `broadcast-email-strategy.md`
-- `ecom/` (reference only — not primary)
+- `ecom/` (additional flow references — welcome, abandonment, testimonials, re-engagement, broadcasts)
 
 ---
 

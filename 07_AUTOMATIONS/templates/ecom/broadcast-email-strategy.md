@@ -3,8 +3,8 @@
 ## Who Should Broadcasts Go To?
 
 ✅ All engaged subscribers (opened or clicked in last 60–90 days)  
-✅ Past purchasers - to drive repeat orders or cross-sells  
-✅ Non-purchasers - to convert lurkers into first-time buyers  
+✅ Past customers/clients - to drive repeat engagement, upsells, or referrals
+✅ Non-converters - to convert lurkers into first-time buyers or booked calls  
 
 ❗️Exclude cold subscribers (no open/click in 90–120+ days) unless you're doing a reactivation campaign.
 

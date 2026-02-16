@@ -194,7 +194,7 @@ Each step:
 │   └── STEP.md
 07_AUTOMATIONS/          ← Step 7: email/SMS
 │   ├── STEP.md
-│   └── templates/       (reminders, nurture, broadcasts + ecom ref)
+│   └── templates/       (reminders, nurture, broadcasts + additional flows)
 08_TRAFFIC/              ← Step 8: drive traffic
 │   └── STEP.md
 RESULTS/                 ← ALL OUTPUTS (one folder per step)

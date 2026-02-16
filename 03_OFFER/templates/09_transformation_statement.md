@@ -10,16 +10,16 @@ The core promise of your offer in one sentence.
 
 ---
 
-## Formula (Ecom)
+## Formula (Product / Direct Offer)
 
-> [OUTCOME] in [TIME FRAME] with our [DIFFERENTIATOR] [PRODUCT], guaranteed or [RISK REVERSAL].
+> [OUTCOME] in [TIME FRAME] with our [DIFFERENTIATOR] [PRODUCT/SERVICE], guaranteed or [RISK REVERSAL].
 
 ---
 
 ## Examples
 
 **Lead Gen**:
-> I help e-commerce store owners generate more sales using our Precision Targeting Blueprint in 90 days.
+> I help business owners generate more sales using our Precision Targeting Blueprint in 90 days.
 
 **Service (Genius Club style)**:
 > I help founders making $250K+ get funding-ready using our Business Infrastructure Audit in 12 months (or 90 days with the accelerator).

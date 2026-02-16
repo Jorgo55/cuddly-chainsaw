@@ -1,6 +1,6 @@
 # Welcome Flow
 
-For DTC brands to convert new subscribers into first-time buyers.
+For converting new subscribers into first-time buyers or booked calls.
 
 ---
 

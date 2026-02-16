@@ -1,8 +1,8 @@
-# Repeat Purchase Flow
+# Re-Engagement / Repeat Purchase Flow
 
-- **Audience:** Customers who purchased X days ago (based on typical usage cycle)  
-- **Goal:** Drive repeat orders, boost LTV, and establish habitual buying  
-- **Timing:** Starts ~20–35 days after purchase (depending on product lifecycle)  
+- **Audience:** Customers or clients who completed their first purchase/engagement X days ago
+- **Goal:** Drive repeat engagement, boost LTV, and establish ongoing relationship
+- **Timing:** Starts ~20–35 days after initial purchase/engagement (adjust to your cycle)
 - **Length:** 5 emails over 10–14 days
 
 ---

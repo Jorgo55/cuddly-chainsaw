@@ -33,7 +33,7 @@ Notes mention a 30-day window for full refund in relevant cases.
 
 ## What guarantees should you run?
 
-### eCom (common types)
+### Product / Direct Offer (common types)
 - Money-Back Guarantee
 - Free Returns Guarantee
 - Lifetime Warranty

@@ -45,20 +45,17 @@ If you're ready to talk about next steps, reply to this email or book a follow-u
 ## Email 2: Social Proof (Day 3)
 
 **Delay**: 48 hours after Email 1
-**Subject**: From "unfundable" to funded
+**Subject**: What the funded founders did differently
 
 ---
 
 {first_name},
 
-The gaps we identified in your business aren't unique to you. Every founder in the $250K-$2M range hits the same wall.
+The gaps we identified in your business aren't unique to you. Every founder in the $250K-$2M range hits similar walls.
 
-The ones who get past it do three things:
-1. They accept that the pitch isn't the problem
-2. They build the infrastructure investors actually evaluate
-3. They go back to investors with a completely different story
+The ones who get past it do something different: they stop trying to pitch their way to funding and start building their way to it.
 
-That's exactly what the 90-Day Funding Machine is designed to do. Not theory. Not courses. Structured operational transformation.
+That's exactly what the 90-Day Funding Machine is designed around. Not a course. Not theory. A structured sprint that transforms the gaps investors are flagging into the infrastructure they're looking for.
 
 When you're ready, we're here:
 
@@ -71,25 +68,23 @@ When you're ready, we're here:
 ## Email 3: Value Drop (Day 7)
 
 **Delay**: 4 days after Email 2
-**Subject**: One thing you can fix this week
+**Subject**: One thing to think about this week
 
 ---
 
 {first_name},
 
-Whether or not you join the program, here's something you can do right now:
+Here's something worth 10 minutes:
 
-**Map your Founder Dependency.**
+**List everything that requires YOUR decision.**
 
-Take 10 minutes. Write down every decision, task, and process that requires YOU to happen. Everything from client escalations to financial approvals to product decisions.
+Every escalation. Every approval. Every judgment call. The things that would stall if you were unreachable for a week.
 
-Count them.
+Write them down. Look at the list.
 
-That number? That's your Founder Dependency Score — and it's the first thing investors evaluate.
+That's the gap we're talking about. That list is what investors are seeing when they look past your pitch deck.
 
-If the number is above 15, you know why they're saying no.
-
-Reducing that number is the single highest-leverage thing you can do for your fundraise. The program builds the system to do it. But even knowing the number changes how you think about your business.
+The question is: are you going to close those gaps alone, or with a system built for exactly this?
 
 — Andy
 

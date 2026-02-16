@@ -10,11 +10,11 @@
 ## The Psychology Behind This Sequence
 
 These leads:
-- Heard "you're not ready" on the call
-- Rejected the diagnosis (partially or fully)
+- Received the full diagnosis on the call
+- Decided not to act on it (yet)
 - Went back to fundraising on their own
-- Had 3 more months of "soft nos"
-- Are now MORE receptive because the seed was planted and reality confirmed it
+- Had 3 more months of the same results
+- Are now MORE receptive because reality confirmed what the audit showed
 
 The boomerang is the highest-conversion sequence in the system. These leads already know Andy, already heard the diagnosis, and have now experienced the proof firsthand.
 
@@ -55,13 +55,13 @@ Same offer: 30-minute call, free, we look at what's changed and what hasn't.
 
 {first_name},
 
-Most founders who hear "you're not ready" react the same way: "Yes I am."
+Most founders don't act on the diagnosis immediately. They go back to fundraising the way they've been doing it — hoping something different will happen.
 
-Then they spend 3 more months pitching. 3 more months of "soft nos." 3 more months of burning runway.
+90 days later, they've had more meetings. More "soft nos." The conversation with investors hasn't changed.
 
-When they come back, the conversation is completely different. They're not defensive anymore. They're ready.
+That's when they come back. Not because they believe us more — but because reality confirmed what the audit showed.
 
-The diagnosis is the same. The path forward is the same. But now they're listening — because 3 months of reality did what I couldn't do in 30 minutes.
+If that's where you're at, the diagnosis is still the same. The path forward is still clear.
 
 If that sounds familiar, the call is still free:
 
@@ -123,4 +123,4 @@ No expiration. No pressure. But the math gets harder every month.
 | Re-booking rate | 10%+ | 20%+ |
 | Close rate (re-booked) | 50%+ | 65%+ |
 
-**Why these are higher than cold metrics**: These leads already know Andy, already heard the diagnosis, and now have empirical evidence (3 more months of failure) confirming what we told them. The resistance has been dissolved by reality.
+**Why these are higher than cold metrics**: These leads already know Andy, already went through the audit, and now have 3 more months of the same investor responses confirming what the audit showed. The resistance has been dissolved by reality.

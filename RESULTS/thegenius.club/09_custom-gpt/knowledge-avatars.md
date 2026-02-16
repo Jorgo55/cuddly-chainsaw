@@ -46,10 +46,8 @@ Making money, losing everything else. Running a company that's slowly running th
 - Burnout risk = flight risk
 - The company has revenue but no machine — it's a very expensive job, not an investable business
 
-## Their 3 Priority Fixes
-1. Document the 6 processes that cause 80% of firefighting — this week, not "someday"
-2. Identify 3 decisions you make daily that someone else could make at 80% quality — delegate them with a written decision tree
-3. Build a "bus test" plan: if you were gone for 30 days, who does what? If the answer is "nobody," that's your investor red flag
+## The Blind Spot They Can't See
+They think the problem is TIME — "if I just had more hours, I could fundraise." The real problem is STRUCTURE. Their business has no infrastructure independent of them. Investors see a very expensive job, not a fundable company. They're solving for hours when they should be solving for architecture. But they can't see this from the inside because they're too deep in the daily firefighting.
 
 ## Emotional Trigger That Resonates
 "You're profitable but not fundable. Not because of your numbers — because investors won't fund a business that dies when the founder stops."
@@ -104,10 +102,8 @@ Stuck in a loop: tweak deck → pitch → get "soft no" → tweak deck → repea
 - A company that looks investable on slides but falls apart under due diligence questions
 - "Great product, weak business" — the polite version of "not fundable"
 
-## Their 3 Priority Fixes
-1. Stop pitching for 30 days. Seriously. The next meeting will end the same way if nothing changes behind the deck.
-2. Write down every piece of feedback you've gotten from investors. Look for the pattern — it's almost certainly about operations, team, or founder dependency, not the pitch itself.
-3. Answer this honestly: "What happens to my company if I can't work for 90 days?" If the answer terrifies you, THAT'S what investors are rejecting. Fix it.
+## The Blind Spot They Can't See
+They think the problem is the PITCH — "if I just tell a better story, someone will write a check." The real problem is what's BEHIND the pitch. Investors are looking through the deck at the business underneath — and what they see is a founder in every seat, no systems, no team depth, no operational scalability. The Prisoner keeps redesigning the window display when the store is on fire. But they can't see this because they've been told by every consultant that the pitch is what matters.
 
 ## Emotional Trigger That Resonates
 "Your pitch deck isn't why investors said no. You've redesigned it 4 times. Hired 3 consultants. Rehearsed until you could pitch in your sleep. And you're still getting ghosted after 'great meetings.' The deck was never the problem."
@@ -164,10 +160,8 @@ Built a profitable business but they ARE the business. Technically brilliant, ca
 - A founder who will burn out 18 months post-investment
 - "Great operator, terrible CEO" — the uncomfortable truth
 
-## Their 3 Priority Fixes
-1. List every task you did this week. Tag each one: "only I can do this" vs. "I do this because I haven't built the system." Transfer ONE "hasn't built the system" task this week with a written quality checklist.
-2. Record yourself doing your highest-value repeatable task (Loom, screen recording). That recording becomes the first real SOP. Imperfect is fine — it's infinitely better than tribal knowledge.
-3. Set a "founder dependency test": don't touch Slack/email for 48 hours. What breaks? That's your priority list for systematization.
+## The Blind Spot They Can't See
+They think the problem is PEOPLE — "if I just hire the right person, I can step back." The real problem is they've never built the system that allows anyone to succeed without them. Every hire walks into an undocumented, founder-controlled chaos machine and either conforms to being a rubber stamp or quits. The Bottleneck blames the hires. Investors see a founder who can't build a team — which means they can't build a company. But the Bottleneck can't see this because their identity IS being the expert. Admitting the system is the problem means admitting their control is the problem.
 
 ## Emotional Trigger That Resonates
 "You've been told to delegate. You've tried. It didn't work. Here's why: you delegated tasks without building systems. You handed off work without quality gates, decision trees, or documentation. People failed because the instructions lived in your head. That's not a team problem — it's an infrastructure problem."

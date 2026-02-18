@@ -1,5 +1,6 @@
 # Avatar: The Pitch-Deck Prisoner
 
+**Name**: David Okafor, 34
 **Tagline**: Keeps polishing the slide deck while the house burns down behind it.
 
 ---
@@ -228,3 +229,45 @@ James comes home after another investor meeting that ended with "let's circle ba
 **Hook**: "You've spent $10K+ on pitch consultants. Want to know why none of them worked?"
 **Body angle**: Pitch consultants fix slides. Investors don't reject slides. They reject businesses that can't scale, founders who can't delegate, and operations held together by duct tape. You fixed the wrong thing. Three times.
 **CTA**: Stop fixing the pitch. Start fixing the business.
+
+---
+
+## Section 15: Real Founder Language Bank (from 620+ reviews)
+
+Exact quotes from real founders that map to David's situation. Use for copy, ads, and sales scripts.
+
+### The "Soft No" Collection (his lived reality)
+- "Let me bring it to the team." (= we're not interested)
+- "It's not the right fit for our portfolio right now." (= generic no)
+- "Come back when you have more traction." (= dismissed)
+- "You're a bit too early for us." (= polite brush-off)
+- "Let's keep in touch." (= we're going to ghost you)
+- "We love what you're building, but..." (= the 'but' negates everything)
+
+### The Rejection Pain
+- "I had my deepest lows because of investor rejections, even as Kapwing's business grew." — Julia Enthoven, Kapwing
+- "I was crushed when people seemed to believe in us but turned us away after many hours of conversations." — Kapwing
+- "No's that come in the form of deafening silence after a series of promising meetings." — Preethi Kasireddy
+- "Each one of those no's will weigh on you heavier than you ever could have imagined." — Preethi Kasireddy
+- "Your first couple rejections will feel like you're spiraling downward into a dark hole." — Preethi Kasireddy
+- "Then comes the heartbreaker. Your favorite VC finally rejects you. It feels like the bottom has dropped out of your world. You start questioning everything." — Substack founder
+
+### The Deck Obsession (his trap)
+- "You used all my words with little creativity of your own. Huge disappointment." — Slidebean review
+- "4 months later they sent incomplete pitch deck... definitely not worth the $2k." — Slidebean
+- "The pitch deck course is a waste of time and their investor list is old and useless." — Startups.com review
+- "They make some slight edits to your deck which they use as proof that they provided the stated service." — Startups.com
+- "Often the pitch decks prepared by professional fundraisers are far worse than those founders have made themselves." — OpenVC Blog
+- "Beware of asking consultants to design your deck from scratch. They always miss the point and magic of your company and create something professional and pretty but generic and hollow." — OpenVC
+
+### The Injustice (what makes him doom-scroll)
+- "Well-liked entrepreneurs with shitty business ideas get funding immediately while shrewd founders outside of the Club can't get a foot in the door." — Kapwing
+- "Fundraising is just about the least meritocratic part of startups." — AlchemistCamp, Hacker News
+- "A huge amount of venture capital is 'gut feelings' and investing in the founder. It's hard not to take it personally." — Kapwing
+
+### The Numbers He Lives
+- "I pitched over 200 investors and ended up with 1 seed VC and 10 angels. That's a 5% conversion rate." — Foundersuite
+- "173 rejections while fundraising and we were considered successful." — Medium founder
+- "On average, the number of investor meetings it takes to receive funding ranges from 100 to about 140." — Founders Network
+- "Investors spend less than 3 minutes reviewing pitch decks these days." — DocSend
+- "For any given meeting with a VC, the chance it will result in funding is between 1% and 10%." — NFX

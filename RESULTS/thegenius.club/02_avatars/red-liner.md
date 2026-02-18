@@ -1,5 +1,6 @@
 # Avatar: The Red-Liner (Successful but Shattering)
 
+**Name**: Marcus Chen, 36
 **Tagline**: Making money, losing everything else — running a company that's slowly running him into the ground.
 
 ---
@@ -192,3 +193,42 @@ His wife — who supported him through the first two years of zero salary — sa
 3. **"Pitch deck consultants fix slides. We fix why investors actually say no."** — Enemy / false solution callout. Positions against the $3K-$5K he already wasted, makes him feel understood
 4. **"What happens to your company if you take a week off? That's your investor problem."** — Reframe. Takes his burnout and reframes it as the actual fundraising blocker. Two problems are actually one problem
 5. **"You don't need more investor meetings. You need to become the company they can't say no to."** — Aspirational / contrarian. Stops the hamster wheel of "more networking" and promises structural transformation instead of volume
+
+---
+
+## Section 15: Real Founder Language Bank (from 620+ reviews)
+
+These are EXACT quotes from real founders that map to Marcus's situation. Use for copy, ads, and sales scripts.
+
+### Burnout / Health Collapse
+- "I cannot sustain this rhythm anymore. Solving problems seems the only purpose in my life and while doing it my mental and physical health is deteriorating." — Sifted 2024
+- "Something has to change or this will kill me." — Sifted 2025
+- "I often think I am just on life support and there is a major opportunity cost not just winding things up and getting a job. The juice doesn't feel worth the squeeze." — Sifted 2025
+- "Product is going well so there's more work. Fundraising — epic level of work. The things that kept me below the red line (diet, exercise, reading) have been set aside and it starts to accumulate." — Sifted 2025
+- "The last time I switched my mobile off was my honeymoon in 2021. Also my last vacation." — Sifted 2024
+- "It was like falling into a tunnel that was getting narrower and narrower." — Eric Bahn, Hustle Fund
+- "3am-stare-at-ceiling territory." — Hacker News founder
+- "A blanket of fog comes over your brain when attempting execution. Feeling incapacitated despite looking healthy." — Hacker News
+
+### Family / Relationship Destruction
+- "I almost lost my marriage and family." — Sifted 2024
+- "I have become more anxious, depressed, worried and antisocial; lost contact with some friends; constant bad conscience towards family." — Sifted 2024
+- "My personal life suffering and cost of living/startup wages are not enough to support my family." — Sifted 2024
+
+### Fundraising Exhaustion
+- "The fundraising environment has nearly broken both me and the business." — Sifted 2024
+- "You wake up at 4am when your dream suddenly becomes about fundraising and your parasympathetic response goes into overdrive." — Sifted 2025
+- "Fundraising is brutally hard, you're going to get rejected constantly, and the stress falls solely on your shoulders." — Foundersuite Blog
+- "There were so many moments when I just wanted to throw my hands up and call it the end. I cringed looking at my calendar every morning." — Preethi Kasireddy
+
+### What They Spent Money On (and it didn't work)
+- "Charged a $3,500 fee that was revealed at the end of a 40-minute call." — Trustpilot, Qubit Capital
+- "I paid $2,500 in monthly fees plus $1,000 for an unusable proposal with zero return. I felt taken in by a scam." — Trustpilot, Funded.com
+- "You could do the same without them and save 5k. They used AI email automation with limited meetings." — Trustpilot
+- "We spent a few thousand and got nothing but frustration." — Trustpilot, Fundable
+
+### The Core Gap (what Marcus WANTS vs what he GETS)
+- Founders want **MONEY**. Services sell **ADVICE**.
+- Founders want **FUNDED**. Services sell **FUNDABLE**.
+- Founders want **RESULTS**. Services sell **PROCESS**.
+- "Paid for ACCESS to capital, received ADVICE about capital." — Pattern across 97 consulting reviews

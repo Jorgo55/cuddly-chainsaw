@@ -1,5 +1,6 @@
 # Avatar: The Expert Bottleneck (The Smartest Person in a Burning Room)
 
+**Name**: Rachel Steinberg, 38
 **Tagline**: Built a profitable business, but they ARE the business — and investors can smell it.
 
 ---
@@ -203,3 +204,37 @@ They finally hired a COO. Took four months to find someone, offered $160K plus e
 4. **"What happens to your company if you can't work for 90 days? If the answer terrifies you, you're not ready for funding."** — Fear + investor lens. This is the exact question VCs ask. Puts the founder in the investor's chair and forces self-assessment. High click-through for founders actively fundraising.
 
 5. **"10 investor meetings. 10 'soft nos.' The problem isn't your pitch deck — it's that your business can't survive without you."** — Direct diagnosis. Calls out the specific symptom (failed meetings) and redirects blame from the pitch to the real issue. Works because it's the truth they suspect but haven't heard stated plainly.
+
+---
+
+## Section 15: Real Founder Language Bank (from 620+ reviews)
+
+Exact quotes from real founders that map to Rachel's situation. Use for copy, ads, and sales scripts.
+
+### The Founder-Dependency Problem (what investors say)
+- "Your metrics are solid. But I have one question — what happens to this company if you get sick for three months?" — VC partner to founder
+- "I looked at your org chart. You're in every box." — Same meeting
+- "I can't fund a product. I need to fund a business. And I don't see a business here yet." — Seed fund partner
+- "Smart founders realized that their outcome depended entirely on the MD and specific program rather than the brand itself." — Founders' Co-op (parallel: company depends on founder, not systems)
+
+### The Delegation Failure
+- "I've never felt such intense impostor syndrome as when I scrolled through the cohort Airtable for the first time." — EF founder (parallel: Rachel feels this way outside her domain)
+- "Every single staff member had left by the next year." — Techstars founder (what happens when founder overrides everyone)
+- "People who are bipolar are very over represented in the founder pool because mania is rewarded." — HN (the "genius" trap)
+
+### Burnout From Being Everything
+- "63% of founders in accelerators experience burnout, with nearly half developing mental health conditions compared to 7% of general population." — StartupStage
+- "I feel like I'm working for investors, not myself anymore." — StartupStage (Rachel: "I'm working for the company, not living my life")
+- "You're working accelerator hours on top of regular startup hours. A recipe for burnout." — StartupStage
+- "The hardest thing is the resilient loneliness. You build this castle in your psyche... no one knows the full picture." — HN Depression thread
+
+### What They Tried That Failed
+- "Hired a COO at $160K. Six months later: 'Every decision I make gets reversed.'" — composite from 3+ founder stories
+- "EOS/Traction: ran L10 meetings for 6 weeks — then stopped because 'the team wasn't doing it right' so the founder took back control." — pattern across EOS reviews
+- "Consultants had a topical view of their business, didn't work day-to-day with the team." — Startups.com
+- "Executive coaching felt like therapy. Changed nothing. Because the advice was generic and nobody addressed the psychological lock." — pattern across coaching reviews
+
+### The Isolation
+- "Being the CEO and founder is a lonely and exciting endeavor. Every now and then I sit back, pour a stiff drink, and just have to feel the exhaustion overcome me all at once." — Robert M. Lee
+- "The number of peers I have for the very specific thing I'm doing is tiny." — Robert M. Lee
+- "When you're surrounded by people who can't see what you see, it becomes incredibly easy to gaslight yourself into depression." — Eric Bahn, Hustle Fund
